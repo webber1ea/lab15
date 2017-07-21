@@ -1,0 +1,28 @@
+html {
+  font-family: Georgia;
+  text-align: center
+}
+
+.container {
+  background-color: pink;
+  font-family: Georgia;
+}
+.col-md-4 {
+  padding: 15px;
+  border: 2px solid black;
+  width: 200px;
+}
+.col-md-12 {
+  border: 2px solid black;
+}
+
+.logo {
+  width: auto;
+  height: 250px;
+  border: 1px solid black;
+}
+
+input {
+  display: block;
+  text-align: center;
+}
